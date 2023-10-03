@@ -12,5 +12,5 @@ If you have 1. the summary txt file in one folder and  these dependecies
 just type this command and you will get this nice excel sheet in the same folder.
 
 ```python
-for file in *.fasta ; do seqtk sample -s185207 $file 185207  > sample_$file.fa ; done
+ python bakta_stat.py -i ./txt
 ```
