@@ -2,7 +2,7 @@
 
 **What is this script about?**
 
-Bakta(https://github.com/oschwengers/bakta) is a very nice tool for Bacterial genome annotation. However, if you used it for many genomes and you want to export the basic summary stats can be merged it a nice Excel sheet.
+[Bakta](https://github.com/oschwengers/bakta) is a very nice tool for Bacterial genome annotation. However, if you used it for many genomes and you want to export the basic summary stats can be merged it a nice Excel sheet.
 
 
 This simple Python3 script shall do this job.
