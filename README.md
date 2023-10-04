@@ -14,3 +14,5 @@ Just type this command and you will get this Excel sheet in the same folder of y
 ```python
  python bakta_stat.py -i ./txt
 ```
+
+Thanks
