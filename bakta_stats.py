@@ -67,7 +67,6 @@ for data_frame in data_frames:
         
 
 
-#df2.drop(new_raw.columns[6], axis=1, inplace=True)
 df2.drop(new_raw.columns[6], axis=1, inplace=True)
 df2.drop(new_raw.columns[22:27], axis=1, inplace=True)
 ###########################################
