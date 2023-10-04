@@ -30,7 +30,7 @@ args = my_parser.parse_args()
 
 ###########################################
 diro  = args.input_dir
-diro = "/media/ahmed/CC69-620B6/00_Ph.D/DATA_results/0_accolens_prop_database_work/0_analysis/00_bakta/txt_files"
+#diro = "/media/ahmed/CC69-620B6/00_Ph.D/DATA_results/0_accolens_prop_database_work/0_analysis/00_bakta/txt_files"
 os.chdir(diro)
 file_names = os.listdir()
 
