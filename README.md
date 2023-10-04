@@ -6,7 +6,7 @@
 
 If you have the summary.txt files in one folder and these dependencies (pandas, openpyxl ,and argparse)
 
-Just type this command and you will get this Excel sheet in the same folder of your txt files.
+Just type this command and you will get the Excel sheet in the same folder of your txt files.
 
 ```python
  python bakta_stats.py -i ./txt
