@@ -12,6 +12,7 @@ You shall have the summary.txt files in one folder and these dependencies (panda
 Just type this command and you will get the Excel sheet in the same folder of your txt files.
 
 "-i /--input_dir"  is your path to the directory of txt files 
+"-p /--prefix"  is your prefered prefix for this work
 
 ```python
  python bakta_stats.py -i ./txt -p Corynebacterium
