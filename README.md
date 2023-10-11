@@ -13,10 +13,8 @@ Just type this command and you will get the Excel sheet in the same folder of yo
 
 "-i /--input_dir"  is your path to the directory of txt files 
 
-"-p /--prefix"  is your preferred prefix for this work
-
 ```python
- python bakta_stats.py -i ./txt -p Corynebacterium
+ python bakta_stats.py -i ./txt 
 ```
 
 Thanks
